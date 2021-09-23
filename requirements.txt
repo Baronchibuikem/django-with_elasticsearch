@@ -1,0 +1,7 @@
+Django
+elasticsearch
+elasticsearch-dsl
+django-elasticsearch-dsl
+djangorestframework
+django-elasticsearch-dsl-drf
+psycopg2-binary
